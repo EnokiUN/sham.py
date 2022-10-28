@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "sham-py"
+version = "0.1.0"
+description = "A simple yet shit discord API wrapper"
+authors = ["Enoki <enokiun@gmail.com>", "Sham <thesham@protonmail.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "sham"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+aiohttp = "^3.8.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
