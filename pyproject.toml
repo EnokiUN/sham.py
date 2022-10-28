@@ -5,7 +5,7 @@ description = "A simple yet shit discord API wrapper"
 authors = ["Enoki <enokiun@gmail.com>", "Sham <thesham@protonmail.com>"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "sham"}]
+packages = [{include = "sham/**/*.py"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
