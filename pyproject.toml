@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "sham-py"
 version = "0.1.0"
-description = "A simple yet shit discord API wrapper"
+description = "A simple yet shit Discord API wrapper"
 authors = ["Enoki <enokiun@gmail.com>", "Sham <thesham@protonmail.com>"]
 license = "MIT"
 readme = "README.md"

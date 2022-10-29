@@ -1,6 +1,6 @@
 """# Sham.py 
 
-A simple yet shit discord API wrapper"""
+A simple yet shit Discord API wrapper"""
 
 from .file import File
 
